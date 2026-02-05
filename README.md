@@ -51,9 +51,6 @@ Analyze football transfer market data to identify:
 
 ```
 football-transfer-market-analysis/
-├── data/
-│   ├── raw/                    # Original Kaggle datasets
-│   └── processed/              # Cleaned & processed data
 ├── notebooks/
 │   └── football_transfer_analysis.ipynb
 ├── powerbi/
