@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Kaggle cache
+.kaggle/
+
+# Data files (optional - لو الداتا كبيرة)
+*.csv
+*.xlsx
+
+# Logs
+*.log
